@@ -6,11 +6,3 @@ third_row = ["   ","|","   ","|","   "]
 fourth_row = ["-----------"]
 fifth_row = ["   ","|","   ","|","   "]
 
-def display_board
-  return first_row
-  return second_row
-  return third_row
-  return fourth_row
-  return fifth_row
-end
-  display_board
